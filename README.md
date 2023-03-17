@@ -1,2 +1,2 @@
 # ProjetoBanco
- Realizado implementação JavaScript no projeto.
+ Realização da implementação do JavaScript no projeto visando mostrar as interações das contas.
